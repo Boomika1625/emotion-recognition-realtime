@@ -1,0 +1,13 @@
+tensorflow
+<<<<<<< HEAD
+keras
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+=======
+opencv-python
+numpy
+matplotlib
+>>>>>>> 9ae3ff5aa5e975fc85ce7c5737522dad390ed29e
